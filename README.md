@@ -3,6 +3,7 @@ Freemix Tools for FontLab
 
 Some Python scripts to be used with [FontLab](http://www.fontlab.com/).
 
+To install, just download [FMX 1.0 installer.flw](https://github.com/justanotherfoundry/freemix-fontlab/raw/master/FMX%201.0%20installer.flw) and open it with FontLab Studio.
 
 FMX Glyph Table
 
@@ -53,3 +54,6 @@ FMX Select same Color/Suffix
 
 -     Access by right-clicking in the Font Window.
 -     Selects all other glyphs with the glyph’s color or suffix (i.e. separated by '.').
+
+
+Released under the MIT License.
